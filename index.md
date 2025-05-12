@@ -13,8 +13,17 @@ I am a fourth-year Ph.D. candidate in Computer Science at [King Abdullah Univers
 
 My research interests focus on bandits, reinforcement learning, and differential privacy. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics. 
 
+### Preprints （* indicates equal contribution）
 
-
+- [*Optimal Regret of Bernoulli Bandits under Global Differential Privacy*](https://www.arxiv.org/abs/2505.05613)\
+  Achraf Azize, **Yulian Wu**, Junya Honda, Francesco Orabona, Shinji Ito and  Debabrota Basu
+  
+- [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
+  **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
+  
+- [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
+  Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
+  
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 - [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
@@ -26,6 +35,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao.\
   Science Advances (Impact Factor = 15.4)\
   News: [Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/algorithm-proposed-to-protect-patient-privacy/), [Today Headline](https://todayheadline.co/an-integrated-shuffler-optimizes-the-privacy-of-personal-genomic-data-used-for-machine-learning/), [Tech Xplore](https://techxplore.com/news/2024-02-shuffler-optimizes-privacy-personal-genomic.html), [ScienMag](https://scienmag.com/shuffling-the-deck-for-privacy/), [Bioengineer.org](https://bioengineer.org/shuffling-the-deck-for-privacy/), [Newswise](https://www.newswise.com/articles/shuffling-the-deck-for-privacy), [EurekAlert](https://www.eurekalert.org/news-releases/1034533), [Biocompare](https://www.biocompare.com/Life-Science-News/610989-Novel-Privacy-Preserving-Machine-Learning-Method-Developed-for-Genomics-Data/), [nabd.ws](https://nabd.ws/h/132899916-7bdd33/?hf=0)
+
 
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
   **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang.\
@@ -48,14 +58,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
   
   
-### Preprints （* indicates equal contribution）
-  
-- [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
-  **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
-  
-- [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
-  Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
-  
+
 ### Research Experience
 
 - Kyoto University, Kyoto, Japan (23/12/2024-27/12/2024)\
