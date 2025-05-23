@@ -33,7 +33,7 @@ I am a fourth-year Ph.D. candidate in Computer Science at [King Abdullah Univers
   
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
-- *A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO.*\
+- [*A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO.*](https://arxiv.org/abs/2505.15694)\
 Xingyu Zhou, **Yulian Wu** and Francesco Orabona.\
 ICML 2025 (**Spotlight=2.6%**)
 
