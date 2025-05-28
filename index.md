@@ -37,7 +37,7 @@ I am a fourth-year Ph.D. candidate in Computer Science at [King Abdullah Univers
 Xingyu Zhou, **Yulian Wu** and Francesco Orabona.\
 ICML 2025 (**Spotlight=2.6%**)
 
-- *Square𝜒PO: Differentially Private and Robust 𝜒2-Preference Optimization in Offline Direct Alignment.*\
+- [*Square𝜒PO: Differentially Private and Robust 𝜒2-Preference Optimization in Offline Direct Alignment.*](https://arxiv.org/pdf/2505.21395)\
 Xingyu Zhou, **Yulian Wu**, Wenqian Weng and Francesco Orabona.\
 ICML 2025
 
