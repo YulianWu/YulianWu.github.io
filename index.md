@@ -77,7 +77,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 ### Recent Research Experience
 - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates (07/2025 - Now)\
   Visiting Student\
-  Host: [Qiang Sun](https://sites.google.com/view/qsun) (University of Toronto) and [Praneeth Vepakomma](https://sites.mit.edu/praneeth/) (MIT)
+  Host: [Qiang Sun in Statistics](https://sites.google.com/view/qsun) (University of Toronto) and [Praneeth Vepakomma in Machine Learning](https://sites.mit.edu/praneeth/) (MIT)
   
 - Kyoto University, Kyoto, Japan (23/12/2024-27/12/2024)\
   Visiting Student\
