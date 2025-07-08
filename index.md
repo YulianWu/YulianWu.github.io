@@ -9,7 +9,7 @@ Email: [yulian.wu@kaust.edu.sa](mailto:yulian.wu@kaust.edu.sa)
 
 
 ## Bio
-I am a fourth-year Ph.D. candidate in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). I am very fortunate to be advised by Prof.[Francesco  Orabona](https://francesco.orabona.com/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
+I am a fourth-year Ph.D. candidate in the [Center of Excellence for Generative AI (GenAI)](https://www.kaust.edu.sa/en/research/generative-ai) under Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). I am very fortunate to be advised by Prof.[Francesco  Orabona](https://francesco.orabona.com/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
 
 <h2>Research Interests</h2>
 <ul>
