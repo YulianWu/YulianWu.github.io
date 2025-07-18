@@ -79,13 +79,10 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Visiting Student\
   Host: [Qiang Sun](https://sites.google.com/view/qsun) (University of Toronto) in Statistics and [Praneeth Vepakomma](https://sites.mit.edu/praneeth/) (MIT) in Machine Learning
   
-- Kyoto University, Kyoto, Japan (23/12/2024-27/12/2024)\
-  Visiting Student\
-  Host: [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
 
-- The University of Tokyo & [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan (11/2024-01/2025)\
+- The University of Tokyo & [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/) &  Kyoto University,  Japan (11/2024-01/2025)\
   Position: Student Trainee\
-  Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
+  Host: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en) and [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
 
 - Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
   Onsite Research Intern\
