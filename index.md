@@ -114,9 +114,10 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 - Conference Reviewer: ESORICS 2022, ECML-PKDD 2022, Euro S&P 2023,  ECML-PKDD 2023, AISTATS 2024, SIGKDD 2024, NeurIPS 2024,  SIGKDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025 
 - Journal Reviewer: IEEE Transactions on Signal Processing
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RRXf4f4gRhuRUdcR56T8NFC9Y8kghKCAIGvJ_mT54k"></script>
-
 ### Miscellaneous
 - My hobbies include scuba diving (AOW), snowboarding, and golf.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RRXf4f4gRhuRUdcR56T8NFC9Y8kghKCAIGvJ_mT54k"></script>
+
 
 
