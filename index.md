@@ -116,4 +116,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RRXf4f4gRhuRUdcR56T8NFC9Y8kghKCAIGvJ_mT54k"></script>
 
+### Miscellaneous
+- My hobbies include scuba diving (AOW), snowboarding, and golf.
+
 
