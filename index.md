@@ -71,6 +71,10 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 - [*Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*.](https://www.ijcai.org/proceedings/2022/548) \
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
+
+- [*Performance Improvement Based on Pinball Support Vector Machine*.](http://222.134.6.173:5000/KCMS/detail/detail.aspx?filename=1021598621.nh&dbcode=CMFD&dbname=CMFD2022)\
+  Yulian Wu.\
+  Master Thesis
   
   
 
