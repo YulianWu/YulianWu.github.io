@@ -74,7 +74,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 
 - [*Performance Improvement Based on Pinball Support Vector Machine*.](http://222.134.6.173:5000/KCMS/detail/detail.aspx?filename=1021598621.nh&dbcode=CMFD&dbname=CMFD2022)\
   Yulian Wu.\
-  Master Thesis
+  Master Thesis, 2021
   
   
 
