@@ -15,7 +15,7 @@ I am a fourth-year Ph.D. candidate in the [Center of Excellence for Generative A
 <ul>
   <li><strong>Trustworthy Machine Learning:</strong> Differential Privacy, Robustness, Heavy-tail</li>
   <li><strong>Interactive Decision-Making:</strong> Bandits, Reinforcement Learning</li>
-  <li><strong>LLM alignment:</strong> Reinforcement Learning with Human Feedback, Direct Preference Optimization</li>
+  <li><strong>AI Alignment:</strong> Reinforcement Learning with Human Feedback, Direct Preference Optimization</li>
   <li><strong>Others:</strong> Trustworthy Issues in Bioinformatics, Quantum Machine Learning</li>
 </ul>
 
