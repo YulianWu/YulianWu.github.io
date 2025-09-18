@@ -21,9 +21,6 @@ I am a Ph.D. candidate in the [Center of Excellence for Generative AI (GenAI)](h
 
 
 ### Preprints （* indicates equal contribution）
-
-- [*Optimal Regret of Bernoulli Bandits under Global Differential Privacy*](https://www.arxiv.org/abs/2505.05613)\
-  Achraf Azize, **Yulian Wu**, Junya Honda, Francesco Orabona, Shinji Ito and  Debabrota Basu
   
 - [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
@@ -33,6 +30,11 @@ I am a Ph.D. candidate in the [Center of Excellence for Generative AI (GenAI)](h
   
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
+
+- [*Optimal Regret of Bernoulli Bandits under Global Differential Privacy*](https://www.arxiv.org/abs/2505.05613)\
+Achraf Azize, **Yulian Wu**, Junya Honda, Francesco Orabona, Shinji Ito and  Debabrota Basu.\
+NeurIPS 2025
+  
 - [*A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO.*](https://arxiv.org/abs/2505.15694)\
 Xingyu Zhou, **Yulian Wu** and Francesco Orabona.\
 ICML 2025 (**Spotlight=2.6%**)
