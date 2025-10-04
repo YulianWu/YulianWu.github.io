@@ -110,9 +110,6 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 - Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**), 2021 
 
 
-### Invited Talks
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. IJTCS-FAW 2022, Virtual
-
 
 ### Services
 - Organizing Committee Member and Moderator: [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025)
