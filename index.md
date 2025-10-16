@@ -21,6 +21,8 @@ I am a Ph.D. candidate in the [Center of Excellence for Generative AI (GenAI)](h
 
 
 ### Preprints （* indicates equal contribution）
+- [*Offline and Online KL-Regularized RLHF under Differential Privacy*.](https://arxiv.org/abs/2510.13512)\
+  **Yulian Wu**, Rushil Thareja, Praneeth Vepakomma and Francesco Orabona
   
 - [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
