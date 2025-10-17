@@ -106,6 +106,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 
 
 ### Selected Awards
+- NeurIPS Top Reviewer, 2025
 - NeurIPS Travel Award, 2023
 - NIPS Grant by KAUST AI Initiative, 2022
 - ICML Travel Award, 2022 
