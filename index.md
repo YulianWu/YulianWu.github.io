@@ -116,7 +116,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 
 ### Services
 - Organizing Committee Member and Moderator: [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025), [KAUST Rising Stars in AI Symposium 2026](https://kaust.edu.sa/events/rsais26/)
-- Program Committee member/Conference Reviewer: SIGKDD 2023, SDM 2024, AISTATS 2024, SIGKDD 2024, NeurIPS 2024,  SIGKDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AISTATS 2026, ICLR 2026 
+- Program Committee member/Conference Reviewer: SIGKDD 2023, SDM 2024, AISTATS 2024, SIGKDD 2024, NeurIPS 2024,  SIGKDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025 (**Top Reviewer**), AISTATS 2026, ICLR 2026 
 - Journal Reviewer: IEEE Transactions on Signal Processing
 
 ### Miscellaneous
