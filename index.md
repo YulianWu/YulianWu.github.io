@@ -48,7 +48,9 @@ ICML 2025
 
 - [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
 Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Orabona.\
-The 37th Annual Conference on Learning Theory (COLT 2024)
+The 37th Annual Conference on Learning Theory (COLT 2024)\
+[Youtube Video](https://www.youtube.com/watch?v=-R7GVWZuqJc&t=73s)
+
 
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.science.org/doi/10.1126/sciadv.adh8601)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
