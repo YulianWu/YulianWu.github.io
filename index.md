@@ -34,7 +34,7 @@ I am a Ph.D. candidate in the [Center of Excellence for Generative AI (GenAI)](h
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 
-- [*Optimal Regret of Bandits under Differential Privacy*]([https://www.arxiv.org/abs/2505.05613](https://openreview.net/pdf?id=rmL109fdAJ)\
+- [*Optimal Regret of Bandits under Differential Privacy*.](https://openreview.net/pdf?id=rmL109fdAJ)\
 Achraf Azize, **Yulian Wu**, Junya Honda, Francesco Orabona, Shinji Ito and  Debabrota Basu.\
 NeurIPS 2025
   
