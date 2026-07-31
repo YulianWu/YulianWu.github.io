@@ -2,10 +2,9 @@
 ## Yulian Wu (伍玉莲)
 <img width="190" height="210" src="./Yulian2.jpeg" align="right"/> 
 
-Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
-King Abdullah University of Science and Technology\
-Thuwal, Saudi Arabia, 23955-6900\
-Email: [yulian.wu@kaust.edu.sa](mailto:yulian.wu@kaust.edu.sa)
+National University of Singapore\
+21 Lower Kent Ridge Rd, University Hall, Singapore 119077\
+Email: [yulian.wu@kaust.edu.sa](mailto:yulian.wu@kaust.edu.sa) / [yulian.wu@nus.edu.sg](mailto:yulian.wu@nus.edu.sg)
 
 
 ## Bio
