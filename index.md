@@ -31,7 +31,11 @@ I am a research fellow (postdoc) at the National University of Singapore, workin
   Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
   
 
-### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
+### Publications （* indicates equal contribution, + indicates coresponding author）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
+- *Asymptotically Optimal Best Arm Identification with Fixed-Budget under Differential Privacy*.\
+Keqin Chen, Jie Bian, **Yulian Wu\+** and Vincent Y. F. Tan.\
+NeurIPS 2026
+
 
 - [*Optimal Regret of Bandits under Differential Privacy*.](https://openreview.net/pdf?id=rmL109fdAJ)\
 Achraf Azize, **Yulian Wu**, Junya Honda, Francesco Orabona, Shinji Ito and  Debabrota Basu.\
