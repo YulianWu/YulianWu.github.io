@@ -33,7 +33,7 @@ I am a research fellow (postdoc) at the National University of Singapore, workin
 
 ### Publications （* indicates equal contribution, + indicates coresponding author）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 - *Asymptotically Optimal Best Arm Identification with Fixed-Budget under Differential Privacy*.\
-Keqin Chen, Jie Bian, **Yulian Wu\+** and Vincent Y. F. Tan.\
+Keqin Chen, Jie Bian, **Yulian Wu**\+ and Vincent Y. F. Tan.\
 NeurIPS 2026
 
 
